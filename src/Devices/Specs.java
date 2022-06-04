@@ -11,12 +11,13 @@ public class Specs {
         this.Handphone = Handphone;
 
     }
+
     public Smartphone getSmartphone(){
         return Handphone;
     }
 
-    public String getSpecs1(){
-        return Specs1;
+    public Smartphone getSpecs1(){
+        return Handphone;
     }
     public String getSpecs2(){
         return  Specs2;
